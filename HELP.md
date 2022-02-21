@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'ru.vrnkaa.file-uplouder' is invalid and this project uses 'ru.vrnkaa.fileuplouder' instead.
+* The original package name 'ru.vrnkaa.file-uplouder' is invalid and this project uses 'ru.vrnkaa.fileuploader' instead.
 
 # Getting Started
 

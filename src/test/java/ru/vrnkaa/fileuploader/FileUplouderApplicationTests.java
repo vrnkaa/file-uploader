@@ -1,4 +1,4 @@
-package ru.vrnkaa.fileuplouder;
+package ru.vrnkaa.fileuploader;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

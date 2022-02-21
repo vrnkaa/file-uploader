@@ -1,13 +1,13 @@
-package ru.vrnkaa.fileuplouder;
+package ru.vrnkaa.fileuploader;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FileUplouderApplication {
+public class FileUploaderApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FileUplouderApplication.class, args);
+		SpringApplication.run(FileUploaderApplication.class, args);
 	}
 
 }
